@@ -6,8 +6,7 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 import { HelmetProvider } from 'react-helmet-async';
 import About from './Components/About.jsx';
 import Home from './Components/Home.jsx';
-import Contact from './Components/Contact.jsx';
-import Skills from './Components/Skills.jsx';
+import Contact from './Components/Contact.jsx'; 
 
 
 const router = createBrowserRouter(
