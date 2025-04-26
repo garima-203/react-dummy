@@ -6,8 +6,7 @@ function About() {
         <>
            <SEO
         title="About"
-        description="Setup of helmet in react project"
-        keywords="react, helmet, setup"
+        description="Setup of helmet in react project - about" 
       />
         <h1>About</h1>
         </>
