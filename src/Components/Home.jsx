@@ -4,7 +4,7 @@ function Home() {
     return (
         <>
             <SEO
-                 title="Contact"
+                 title="home"
                  description="Setup of helmet in react project"
                  keywords="react, helmet, setup"
                />
