@@ -1,9 +1,10 @@
 import React from 'react'
-import Seo from './Seo' 
+import SEO from '../layout/Head'
+ 
 function About() {
     return (
         <>
-           <Seo
+           <SEO
         title="About"
         description="Setup of helmet in react project"
         keywords="react, helmet, setup"
